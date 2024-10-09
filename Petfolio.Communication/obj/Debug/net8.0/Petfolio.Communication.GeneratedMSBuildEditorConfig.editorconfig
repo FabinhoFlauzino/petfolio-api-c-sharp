@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Petfolio.Communication
-build_property.ProjectDir = D:\gaveta\c-sharp\rocketseat\projetos\Petfolio\Petfolio.Communication\
+build_property.ProjectDir = C:\Users\Fabinho\Desktop\GavetaDEV\rocketseat\c-sharp\projetos\petfolio-api-c-sharp\Petfolio.Communication\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
