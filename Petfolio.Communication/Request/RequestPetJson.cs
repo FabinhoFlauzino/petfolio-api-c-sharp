@@ -2,7 +2,7 @@
 
 namespace Petfolio.Communication.Request;
 
-public class RequestRegisterPetJson
+public class RequestPetJson
 {
     public string Name { get; set; } = string.Empty;
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zJSnMwyVYH6j4mR2X2le1G85MogafvkSJHdiBY/3cuEKRgSoGKljh5Gcl9gg610NB25wo8+veNucdzaTan96+w==",
+  "dgSpecHash": "hQFJBrlff0sLngmdfYwD6bk97q1km+k8BF0B/mTXFoorbxwBiPNvWhxcn7tJcTvU8m1CapHxsqQ3MgqNb8xAIQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Fabinho\\Desktop\\GavetaDEV\\rocketseat\\c-sharp\\projetos\\petfolio-api-c-sharp\\Petfolio.Communication\\Petfolio.Communication.csproj",
+  "projectFilePath": "C:\\Users\\fabio\\Desktop\\Petfolio\\Petfolio.Communication\\Petfolio.Communication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
